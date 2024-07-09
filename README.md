@@ -1,1 +1,3 @@
-# github_practice
+# githubの演習課題になります。
+
+個人用です
